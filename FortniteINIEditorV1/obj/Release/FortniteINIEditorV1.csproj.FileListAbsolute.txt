@@ -1,0 +1,12 @@
+C:\Users\ZeidCezeY\source\repos\FortniteINIEditorV1\FortniteINIEditorV1\obj\Release\FortniteINIEditorV1.csproj.AssemblyReference.cache
+C:\Users\ZeidCezeY\source\repos\FortniteINIEditorV1\FortniteINIEditorV1\obj\Release\FortniteINIEditorV1.Properties.Resources.resources
+C:\Users\ZeidCezeY\source\repos\FortniteINIEditorV1\FortniteINIEditorV1\obj\Release\FortniteINIEditorV1.csproj.GenerateResource.cache
+C:\Users\ZeidCezeY\source\repos\FortniteINIEditorV1\FortniteINIEditorV1\obj\Release\FortniteINIEditorV1.csproj.CoreCompileInputs.cache
+C:\Users\ZeidCezeY\source\repos\FortniteINIEditorV1\FortniteINIEditorV1\bin\Release\FortniteINIEditorV1.exe.config
+C:\Users\ZeidCezeY\source\repos\FortniteINIEditorV1\FortniteINIEditorV1\bin\Release\FortniteINIEditorV1.exe
+C:\Users\ZeidCezeY\source\repos\FortniteINIEditorV1\FortniteINIEditorV1\bin\Release\FortniteINIEditorV1.pdb
+C:\Users\ZeidCezeY\source\repos\FortniteINIEditorV1\FortniteINIEditorV1\obj\Release\FortniteINIEditorV1.exe
+C:\Users\ZeidCezeY\source\repos\FortniteINIEditorV1\FortniteINIEditorV1\obj\Release\FortniteINIEditorV1.pdb
+C:\Users\ZeidCezeY\source\repos\FortniteINIEditorV1\FortniteINIEditorV1\obj\Release\FortniteINIEditorV1.exe.config
+C:\Users\ZeidCezeY\source\repos\FortniteINIEditorV1\FortniteINIEditorV1\obj\Release\FortniteINIEditorV1.csproj.Fody.CopyLocal.cache
+C:\Users\ZeidCezeY\source\repos\FortniteINIEditorV1\FortniteINIEditorV1\obj\Release\FortniteINIEditorV1.csproj.Fody.RuntimeCopyLocal.cache
